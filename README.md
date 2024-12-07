@@ -1,4 +1,4 @@
-# Softeng281-A2
+
 Softeng 281 course assignment 2
 
 ## BlackJack Game 
